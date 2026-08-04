@@ -1,75 +1,96 @@
-<h1 align="center">WELCOME TO MY GITHUB PROFILE</h1>
-
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=kyazs" alt="kyazs visit stats"/>       
-    <a href="https://github.com/kyazs?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/kyazs" alt="Repos"/></a> 
-    <img src="https://badges.pufler.dev/years/kyazs" alt="Active_Years"/>  
-    <a href="https://github.com/milaan9/kyazs" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/kyazs" alt="commits"/> 
-    <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square"></a>
-</p>
-
-<p dir="auto">
-    <img align="middle" src="https://github.com/Kyazs/kyazs/blob/main/assets/kyazs-dev-landscape.png" style="max-width: 100%;">
-</p>
-
-
-<div> 
-    <h4 align="center"> 
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a>Hi, I'm Casper (Kyazs), a passionate developer with hands-on experience in modern technologies. I enjoy building innovative and efficient solutions using the latest tools and frameworks. Whether it's web development, UI design, or system logic, I love turning ideas into functional and meaningful digital experiences.<img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
-    </h4> 
-    <p align="right">
-        <img src="https://readme-jokes.vercel.app/api" alt="kyazs joke" width="100%"/>
-    </p>
-</div>
-
-##### 👩‍💻 &nbsp;About me  
-💡 &nbsp;I enjoy exploring new technologies and building software solutions.\
-🎓 &nbsp;I'm currently studying <img src="https://img.shields.io/badge/Compuer Science-red"> at Western Mindanao State University.\
-🌱 &nbsp;I’m diving deeper into <img src="https://img.shields.io/badge/Artificial Intelligence-blue"> and <img src="https://img.shields.io/badge/Software Development-gray">.\
-✍️ &nbsp;In my free time, I enjoy learning new tech and reading mangas/manhwas.\
-💬 &nbsp;Feel free to reach out to me for commissions, collaborations, or just a fun tech chat.\
-✉️ &nbsp;If you want to connect, I'm always open on my social media accounts.\
-📄 &nbsp;Please have a look at my [Portfolio](https://kyazs.github.io/Kyazs-Portfolio/) for more details about my work. I'm open to feedback and suggestions!
-
-### 🛠 &nbsp;Tech Stack
-
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-05122A?style=flat&logo=shadcnui)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)\
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/kyazs">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kyazs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kyazs&layout=compact&langs_count=8&theme=algolia"/>
-        <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=kyazs&&theme=algolia&show_icons=true&layout=compact" alt="kyazs"/>
-    </a>
-</div>
-
-### 🤝🏻 &nbsp;Connect with Me
-<p align="center"> 
-    <img alt="profile" src="https://github.com/Kyazs/kyazs/blob/main/assets/profile.png" width="100px">
-</p>
+<h1 align="center">👋 Hi, I'm Casper (Kyazs)</h1>
 <p align="center">
-    <a href="https://github.com/kyazs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kyazs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/jcasper-santos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-jcasper_santos-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-    <a href="https://kyazs.github.io/Kyazs-Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/kyazs-portfolio-%23.svg?colorB=orange&style=flat&&logo=gnometerminal&logoColor=white"></a>
-    <a href="https://discord.gg/VrQUNQc4" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-@kyazs-181717?style=flat-square&logo=discord&logoColor=5865F2"></a>
-    <a href="https://www.instagram.com/_kyazs/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-@_kyazs-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-    <a href="mailto:santosjohncasper@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-santosjohncasper@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <b>Computer Science Student & Full-Stack Developer</b>
+</p>
+
+<p align="center">
+  <a href="https://caspersantos.dev"><b>🌐 Portfolio Website</b></a> •
+  <a href="https://www.linkedin.com/in/jcasper-santos"><b>💼 LinkedIn</b></a> •
+  <a href="mailto:santosjohncasper@gmail.com"><b>✉️ Email Me</b></a>
+</p>
+
+---
+
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=kyazs&color=007acc&style=flat-square" alt="kyazs visit stats"/>
+    <img src="https://img.shields.io/github/followers/kyazs?style=flat-square&color=blue" alt="Followers"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/Kyazs/kyazs/blob/main/assets/kyazs-dev-landscape.png" alt="Kyazs Banner" width="100%">
+</p>
+
+## 🚀 About Me
+
+💡 **Passionate about building scalable web applications and exploring AI integrations.**
+
+* 🎓 **Education:** Pursuing a degree in **Computer Science** at Western Mindanao State University.
+* 🌱 **Currently Deep-Diving Into:** Artificial Intelligence, AI Model Integrations, and Backend Systems Architecture.
+* ✍️ **Hobbies:** Exploring emerging tech, refining UI designs, and reading manga/manhwa.
+* 💬 **Let's Talk:** Open for freelance commissions, collaborations, or discussing tech ideas!
+
+---
+
+## 🛠 Tech Stack
+
+### **Frontend & Frameworks**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Backend & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kyazs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Casper's GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kyazs&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kyazs&theme=algolia&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## ⚡ Daily Tech Laugh
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=algolia" alt="Tech Joke" width="60%"/>
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/kyazs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jcasper-santos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://caspersantos.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:santosjohncasper@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.gg/VrQUNQc4" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.instagram.com/_kyazs/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
