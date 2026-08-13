@@ -55,9 +55,9 @@ text, tspan { white-space: pre; }
     <tspan x="390" y="30">kyazs</tspan><tspan class="cc">@</tspan><tspan>dev</tspan>
     <tspan x="390" y="48" class="cc">──────────────────────────────────────</tspan>
     <tspan x="390" y="66" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ................. </tspan><tspan class="val">CachyOS Linux x86_64</tspan>
-    <tspan x="390" y="84" class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: ............... </tspan><tspan class="val">Zamboanga City, PH</tspan>
+    <tspan x="390" y="84" class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: ............... </tspan><tspan class="val">Philippines</tspan>
     <tspan x="390" y="102" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">:</tspan><tspan class="cc" id="age_data_dots"> ............. </tspan><tspan class="val" id="age_data">22 years, 8 months, 27 days</tspan>
-    <tspan x="390" y="120" class="cc">. </tspan><tspan class="key">Shell</tspan><tspan class="cc">: .............. </tspan><tspan class="val">zsh</tspan>
+    <tspan x="390" y="120" class="cc">. </tspan><tspan class="key">Shell</tspan><tspan class="cc">: .............. </tspan><tspan class="val">zsh  bash  fish</tspan>
     <tspan x="390" y="138" class="cc"> </tspan>
     <tspan x="390" y="156" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">: .......... </tspan><tspan class="val">TypeScript  Python  PHP  SQL</tspan>
     <tspan x="390" y="174" class="cc">. </tspan><tspan class="key">Frameworks</tspan><tspan class="cc">: ......... </tspan><tspan class="val">React  FastAPI  Laravel  PySpark</tspan>
@@ -66,7 +66,7 @@ text, tspan { white-space: pre; }
     <tspan x="390" y="228" class="cc">. </tspan><tspan class="key">Degree</tspan><tspan class="cc">: ............. </tspan><tspan class="val">BS Computer Science, WMSU</tspan>
     <tspan x="390" y="246" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: ............... </tspan><tspan class="val">Full-stack → Data Engineering</tspan>
     <tspan x="390" y="264" class="cc">. </tspan><tspan class="key">Civic</tspan><tspan class="cc">: .............. </tspan><tspan class="val">SK Secretary, Brgy. Guiwan</tspan>
-    <tspan x="390" y="282" class="cc">. </tspan><tspan class="key">Hackathon</tspan><tspan class="cc">: .......... </tspan><tspan class="val">Health-E — 2nd Place National</tspan>
+    <tspan x="390" y="282" class="cc">. </tspan><tspan class="key">Hackathon</tspan><tspan class="cc">: .......... </tspan><tspan class="val">Health-E — 2nd Place/National</tspan>
     <tspan x="390" y="300" class="cc"> </tspan>
     <tspan x="390" y="318" class="cc">────── </tspan><tspan>GitHub Stats</tspan><tspan class="cc"> ────────────────</tspan>
     <tspan x="390" y="336" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">:</tspan><tspan class="cc" id="repo_data_dots"> .............. </tspan><tspan class="val" id="repo_data">46</tspan>
