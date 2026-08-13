@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     font-family="ConsolasFallback,Consolas,monospace"
+     width="985px" height="530px" font-size="16px">
+  <style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
+}
+.bg  { fill: #ffffff; }
+.key { fill: #116329; }
+.val { fill: #24292f; }
+.cc  { fill: #d0d7de; }
+.asc { fill: #8b949e; }
+.addColor { fill: #1a7f37; }
+.delColor { fill: #cf222e; }
+text { fill: #24292f; }
+text, tspan { white-space: pre; }
+  </style>
+
+  <rect class="bg" width="985" height="530"/>
+
+  <!-- ASCII Portrait (scaled to stay left of info panel) -->
+  <g transform="scale(0.76)">
+  <text xml:space="preserve" class="asc">
+    <tspan x="10" y="20">                  ./awo*Z&lt;'</tspan>
+    <tspan x="10" y="36">               'aoWMM#MoW8W8#ohoq)</tspan>
+    <tspan x="10" y="52">             0*&amp;MWWW&amp;8%%%%%%%%%W#ph.</tspan>
+    <tspan x="10" y="68">          :**kMo&amp;M#M88&amp;WobqaM%%&amp;MWQW:</tspan>
+    <tspan x="10" y="84">         M#hqhap8*M&amp;W*bZYcvzUmhMWo8kWz</tspan>
+    <tspan x="10" y="100">        dW##po#bqWaMoqCuxrrxuXOook&amp;##Mb</tspan>
+    <tspan x="10" y="116">       \oMW#MaMM8aahmJnfjrjrxuJmbhM8M8##</tspan>
+    <tspan x="10" y="132">       hM*WoWoWMWWbJx|(1)(////rcw*W&amp;WM&amp;W,</tspan>
+    <tspan x="10" y="148">      L&amp;MWMMWMMddbjuJCQCj((||\nuvZh#*MWW#</tspan>
+    <tspan x="10" y="164">      M&amp;WWWWM#wx{{|/jvzux\(\trYLQLUdWWMMM</tspan>
+    <tspan x="10" y="180">      WWM#W0\\|1)fX**OYc\11fXQCYnucvvw8Wa</tspan>
+    <tspan x="10" y="196">      .#akpu\(11(|)/uvnj(1)rUQh08*bCXJ&amp;W:</tspan>
+    <tspan x="10" y="212">       1bJvj|({[?]{1(|{[]{}1czXXXcUCYzW*</tspan>
+    <tspan x="10" y="228">      Qu]])\||}_&lt;+-[}[[-[_&lt;1fcnvvunucza</tspan>
+    <tspan x="10" y="244">     ~f-}f)|\({_~&gt;~+-?[{f8uu&amp;Luunnxrnv):</tspan>
+    <tspan x="10" y="260">      c(nZ-)|)1]_~~+?}}1()rfnYcvnxjnuv\jc</tspan>
+    <tspan x="10" y="276">      I_X?-1)){]-_+]}[{[nuunXYXzcvuucc\L'</tspan>
+    <tspan x="10" y="292">       .?[|q|1{][?-}(rUn/rnczLwmYvuccLr`</tspan>
+    <tspan x="10" y="308">           n/(1{{))11}[}}/ncuucXXcvcjxx</tspan>
+    <tspan x="10" y="324">           '|/|)11()}}]})\fjnvzzXzc,</tspan>
+    <tspan x="10" y="340">            \|ff/|(){}][{|\/jvcXYz{</tspan>
+    <tspan x="10" y="356">            ||)|ruvvnjjrnuvvzzUUY</tspan>
+    <tspan x="10" y="372">          `v/\)11/ruzUL0ZZmZOQJY-</tspan>
+    <tspan x="10" y="388">      Obh,''L()11)((/jxzYJCCJUYX</tspan>
+    <tspan x="10" y="404">    qbkkab`''n()1(){}{)/jvzYXXXX</tspan>
+    <tspan x="10" y="420">,Ca*ooahoop^''&gt;x(||((((|\tjncXXI</tspan>
+    <tspan x="10" y="436">      "phaaaaaooo#W**aaooU'''Urt//\|//tuczcX</tspan>
+    <tspan x="10" y="452">  ^ooooo*o**o*#**#M&amp;#ooaoht'''"znjj\/fjnvcccz+</tspan>
+    <tspan x="10" y="468"> do*oo***#*oaooo***##%&amp;M**kh!^''`unxrt/frnuuc#</tspan>
+    <tspan x="10" y="484">Caahhhahhhaoookao*#*###&amp;#W#*oh+"''`-uvvvnxxnuCW</tspan>
+    <tspan x="10" y="500">+dkkhhahhkhkhkhh*kao#*#*#W#M***a!"^'':nncvvxnzor</tspan>
+  </text>
+  </g>
+
+  <!-- Info Panel -->
+  <text xml:space="preserve">
+    <tspan x="390" y="30">kyazs</tspan><tspan class="cc">@</tspan><tspan>zamboanga</tspan>
+    <tspan x="390" y="46" class="cc">─────────────────────────────────</tspan>
+
+    <tspan x="390" y="62" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ................... </tspan><tspan class="val">CachyOS Linux x86_64</tspan>
+    <tspan x="390" y="78" class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: ............... </tspan><tspan class="val">Zamboanga City, PH</tspan>
+    <tspan x="390" y="94" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...... </tspan><tspan class="val" id="age_data">22 years, 0 months, 0 days</tspan>
+    <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Shell</tspan><tspan class="cc">: ......................... </tspan><tspan class="val">zsh</tspan>
+
+    <tspan x="390" y="126" class="cc"> </tspan>
+
+    <tspan x="390" y="142" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">: ..... </tspan><tspan class="val">TypeScript  Python  PHP  SQL</tspan>
+    <tspan x="390" y="158" class="cc">. </tspan><tspan class="key">Frameworks</tspan><tspan class="cc">: .... </tspan><tspan class="val">React  FastAPI  Laravel  PySpark</tspan>
+    <tspan x="390" y="174" class="cc">. </tspan><tspan class="key">Infra</tspan><tspan class="cc">: ............. </tspan><tspan class="val">Docker  Redis  PostgreSQL</tspan>
+
+    <tspan x="390" y="190" class="cc"> </tspan>
+
+    <tspan x="390" y="206" class="cc">. </tspan><tspan class="key">Degree</tspan><tspan class="cc">: ............ </tspan><tspan class="val">BS Computer Science, WMSU</tspan>
+    <tspan x="390" y="222" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: .............. </tspan><tspan class="val">Full-stack → Data Engineering</tspan>
+    <tspan x="390" y="238" class="cc">. </tspan><tspan class="key">Civic</tspan><tspan class="cc">: ............. </tspan><tspan class="val">SK Secretary, Brgy. Guiwan</tspan>
+    <tspan x="390" y="254" class="cc">. </tspan><tspan class="key">Hackathon</tspan><tspan class="cc">: ......... </tspan><tspan class="val">Health-E — 2nd Place National</tspan>
+
+    <tspan x="390" y="270" class="cc"> </tspan>
+
+    <tspan x="390" y="286" class="cc">─────── </tspan><tspan>GitHub Stats</tspan><tspan class="cc"> ─────────────</tspan>
+
+    <tspan x="390" y="302" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ...... </tspan><tspan class="val" id="repo_data">0</tspan><tspan class="cc"> {</tspan><tspan class="key">Contributed</tspan><tspan class="cc">: </tspan><tspan class="val" id="contrib_data">0</tspan><tspan class="cc">}</tspan>
+    <tspan x="390" y="318" class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ...... </tspan><tspan class="val" id="star_data">0</tspan>
+    <tspan x="390" y="334" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .... </tspan><tspan class="val" id="commit_data">0</tspan>
+    <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> .. </tspan><tspan class="val" id="follower_data">0</tspan>
+    <tspan x="390" y="366" class="cc">. </tspan><tspan class="key">Lines</tspan>:<tspan class="cc" id="loc_data_dots"> ...... </tspan><tspan class="val" id="loc_data">0</tspan><tspan class="cc"> (</tspan><tspan class="addColor" id="loc_add">0</tspan><tspan class="addColor">++</tspan><tspan class="cc">, </tspan><tspan class="cc" id="loc_del_dots"></tspan><tspan class="delColor" id="loc_del">0</tspan><tspan class="delColor">--</tspan><tspan class="cc">)</tspan>
+
+    <tspan x="390" y="382" class="cc"> </tspan>
+
+    <tspan x="390" y="398" class="cc">─────── </tspan><tspan>Contact</tspan><tspan class="cc"> ───────────────────</tspan>
+
+    <tspan x="390" y="414" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">: ............ </tspan><tspan class="val">github.com/Kyazs</tspan>
+    <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="cc">: ......... </tspan><tspan class="val">caspersantos.dev</tspan>
+    <tspan x="390" y="446" class="cc">. </tspan><tspan class="key">Status</tspan><tspan class="cc">: ............ </tspan><tspan class="val">open to work</tspan>
+  </text>
+
+  <rect x="390" y="468" width="18" height="18" fill="#24292f" rx="2"/>
+  <rect x="412" y="468" width="18" height="18" fill="#cf222e" rx="2"/>
+  <rect x="434" y="468" width="18" height="18" fill="#1a7f37" rx="2"/>
+  <rect x="456" y="468" width="18" height="18" fill="#9a6700" rx="2"/>
+  <rect x="478" y="468" width="18" height="18" fill="#0969da" rx="2"/>
+  <rect x="500" y="468" width="18" height="18" fill="#8250df" rx="2"/>
+  <rect x="522" y="468" width="18" height="18" fill="#1b7c83" rx="2"/>
+  <rect x="544" y="468" width="18" height="18" fill="#6e7781" rx="2"/>
+</svg>
