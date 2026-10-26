@@ -54,7 +54,7 @@ text, tspan { white-space: pre; }
     <tspan x="390" y="48" class="cc">──────────────────────────────────────</tspan>
     <tspan x="390" y="66" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ................. </tspan><tspan class="val">CachyOS Linux x86_64</tspan>
     <tspan x="390" y="84" class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: ............... </tspan><tspan class="val">Philippines</tspan>
-    <tspan x="390" y="102" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">:</tspan><tspan class="cc" id="age_data_dots"> ............. </tspan><tspan class="val" id="age_data">22 years, 11 months, 8 days</tspan>
+    <tspan x="390" y="102" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">:</tspan><tspan class="cc" id="age_data_dots"> ............. </tspan><tspan class="val" id="age_data">22 years, 11 months, 9 days</tspan>
     <tspan x="390" y="120" class="cc">. </tspan><tspan class="key">Shell</tspan><tspan class="cc">: .............. </tspan><tspan class="val">zsh  bash  fish</tspan>
     <tspan x="390" y="138" class="cc"> </tspan>
     <tspan x="390" y="156" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">: .......... </tspan><tspan class="val">TypeScript  Python  PHP  SQL</tspan>
